@@ -24,12 +24,9 @@ logo {
 
 wrapper {
   background-color: #eee8d5;
-}
-
-.wrapper{
-  .dfn:
-  strong:color: #fff;
-  background-color: #b58900;
+  .wrapper
+    .dfn:strong:color: #fff;
+    background-color: #b58900;
 }
 
 contents, favs, facts, types {
@@ -40,9 +37,9 @@ contents, favs, facts, types {
 
 a {
   .no-highlight
-  background-color:#719307:
+  background-color:#719e07;
 }
 
 rel="external" {
-  background-color: #586e75;
+  background-color: #2694d8;
 }
