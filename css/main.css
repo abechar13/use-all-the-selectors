@@ -18,12 +18,31 @@ ul, nav {
   font-family: sans-serif;
 }
 
+logo {
+  text-transform: uppercase;
+}
+
 wrapper {
   background-color: #eee8d5;
 }
 
-contents, favs, facts, types {
-  color: #93a1a1;
+.wrapper{
+  .dfn:
+  strong:color: #fff;
+  background-color: #b58900;
 }
 
-.dfn
+contents, favs, facts, types {
+  color: #93a1a1;
+  .types
+  background-color: #d04b16;
+}
+
+a {
+  .no-highlight
+  background-color:#719307:
+}
+
+rel="external" {
+  background-color: #586e75;
+}
